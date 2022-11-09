@@ -1,8 +1,12 @@
 # ASUS Vivobook S15 S531FL Hackintosh
-Updated 9 November 2022 for macOS 13.0
 
-**OpenCore version:** 0.8.5
+![Alt text](https://github.com/y0ngj1e/ASUS-S531FL-OpenCore/raw/main/About%20this%20mac.png)
+
+**OpenCore version:** 0.8.5 
+
 **Guide used:** https://dortania.github.io/OpenCore-Install-Guide/
+
+Updated 9 November 2022 for macOS 13.0
 
 # My Specs
 - **CPU:** Intel Core i7-8565U
