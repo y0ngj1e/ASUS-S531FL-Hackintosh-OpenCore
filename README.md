@@ -13,7 +13,7 @@ Updated 9 November 2022 for macOS 13.0
 - **BIOS revision:** Version 300
 
 # Working:
-- [x] CPU & full Power Management (800MHz min freq)
+- [x] CPU & Full Power Management (800MHz min freq)
 - [x] GPU QE/CI with 2GB VRAM & Brightness adjustment
 - [x] HiDPI with framebuffer patch to run any HiDPI resolution
 - [x] Wifi & Bluetooth
@@ -30,7 +30,7 @@ Updated 9 November 2022 for macOS 13.0
 # Untested:
 - HDMI (probably need to patch framebuffer)
 - Multicombo headphone jack (probably need VerbStub.kext)
-- Apple features such as Continuity, AirDrop, iMessage and FaceTime as I don't have an iOS device. App Store works
+- Apple features such as Continuity, AirDrop, iMessage and FaceTime as I don't have an iOS device. (App Store works)
 
 # Pre Installation:
 The EFI folder in this repo is the final setup of this hack. Please follow the official guide and remove unnecessary kexts, SSDTs and modify the config.plist before booting into the installer to install macOS.
@@ -48,7 +48,7 @@ The EFI folder in this repo is the final setup of this hack. Please follow the o
 - Automate applying undervolt on boot & waking from sleep with [Hammerspoon](http://www.hammerspoon.org/)
 
    + Paste this in init.lua (modify to your username)
-   + following code below has power limits set when plugged in/on battery. change accordingly to suit your needs
+   + Following code below has power limits set when plugged in/on battery. Change accordingly to suit your needs
 ``` xml
 function sleepWatchFunction(eventType)
   if (eventType == hs.caffeinate.watcher.systemDidWake) then
