@@ -1,6 +1,7 @@
 # ASUS Vivobook S15 S531FL Hackintosh
 Updated 9 November 2022 for macOS 13.0
 
+**OpenCore version:** 0.8.5
 **Guide used:** https://dortania.github.io/OpenCore-Install-Guide/
 
 # My Specs
