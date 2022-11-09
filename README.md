@@ -6,6 +6,8 @@
 
 **Guide used:** https://dortania.github.io/OpenCore-Install-Guide/
 
+[Geekbench Score](https://browser.geekbench.com/v5/cpu/18511808)
+
 Updated 9 November 2022 for macOS 13.0
 
 # My Specs
@@ -40,7 +42,7 @@ Updated 9 November 2022 for macOS 13.0
 # Pre Installation:
 The EFI folder in this repo is the final setup of this hack. Please follow the official guide and remove unnecessary kexts, SSDTs and modify the config.plist before booting into the installer to install macOS.
 
-- [**Get your PlatformInfo serial number here:**](https://github.com/corpnewt/GenSMBIOS)
+- [Get your PlatformInfo serial number here](https://github.com/corpnewt/GenSMBIOS)
 
 # Post Installation Stuff:
 
