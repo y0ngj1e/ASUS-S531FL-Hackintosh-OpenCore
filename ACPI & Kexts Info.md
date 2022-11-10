@@ -12,7 +12,7 @@
 
 # Drivers
 - **AudioDxe.efi**: Enable Boot chime in OpenCore
-- **HfsPlus.efi**: HFS+ driver to load HFS =+ formatted USB installers
+- **HfsPlus.efi**: HFS+ driver to load HFS+ formatted USB installers
 - **OpenCanopy.efi**: Load OpenCore GUI
 - **OpenRuntime.efi**: OpenCore's backbone
 - **ResetNvramEntry.efi**: Enable the option to reset NVRAM
