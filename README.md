@@ -50,6 +50,8 @@ The EFI folder in this repo is the final setup of this hack. Please follow the o
 
 - Enable HiDPI by following steps from [this website](https://codeclou.github.io/Display-Override-PropertyList-File-Parser-and-Generator-with-HiDPI-Support-For-Scaled-Resolutions/) and with [this app](https://github.com/avibrazil/RDM)
 
+- [Calibrate your display white point with this accessibility option](https://apple.stackexchange.com/questions/426761/reduce-brightness-of-white-color-whitepoint-on-macbook-2020-eye-strain-pain)
+
 - [Build your own Voltageshift.kext for undervolting without disabling SIP](https://github.com/zspherez/VoltageShift/tree/master)
 
 - Automate applying undervolt on boot & waking from sleep with [Hammerspoon](http://www.hammerspoon.org/)
