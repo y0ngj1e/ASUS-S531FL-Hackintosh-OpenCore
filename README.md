@@ -43,7 +43,7 @@ Updated 9 November 2022 for macOS 13.0
 The EFI folder in this repo is the final setup of this hack. Please follow the official guide and remove unnecessary kexts, SSDTs and modify the config.plist before booting into the installer to install macOS.
 
 - [Get your PlatformInfo serial number here](https://github.com/corpnewt/GenSMBIOS)
-- [Refer to this readme for the purpose of each ACPI patch and kexts](https://github.com/y0ngj1e/ASUS-S531FL-Hackintosh-OpenCore/raw/main/ACPI%20%26%20Kexts%20Info.md)
+- [Refer to this readme for the purpose of each ACPI patch and kexts](https://github.com/y0ngj1e/ASUS-S531FL-Hackintosh-OpenCore/blob/main/ACPI%20%26%20Kexts%20Info.md)
 
 # Post Installation Stuff:
 
