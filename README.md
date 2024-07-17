@@ -6,7 +6,7 @@
 
 **Guide used:** https://dortania.github.io/OpenCore-Install-Guide/
 
-[Geekbench Score](https://browser.geekbench.com/v5/cpu/18511808)
+[Geekbench 6 Score](https://browser.geekbench.com/v6/cpu/6947236)
 
 Updated 17 July 2024 for macOS 14.5, will update again when 15.0 is released
 
