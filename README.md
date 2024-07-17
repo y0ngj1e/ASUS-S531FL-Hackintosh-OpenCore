@@ -8,7 +8,7 @@
 
 [Geekbench Score](https://browser.geekbench.com/v5/cpu/18511808)
 
-Updated 9 November 2022 for macOS 13.0
+Updated 17 July 2024 for macOS 14.5, will update again when 15.0 is released
 
 # My Specs
 - **CPU:** Intel Core i7-8565U
@@ -17,7 +17,7 @@ Updated 9 November 2022 for macOS 13.0
 - **Storage:** Intel 660p 512GB
 - **Wifi/BT Card:** Intel(R) Dual Band Wireless AC 8265
 - **Touchpad:** ELAN1200
-- **BIOS revision:** Version 300
+- **BIOS revision:** Version 301
 
 # Working:
 - [x] CPU & Full Power Management (800MHz min freq)
