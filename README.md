@@ -12,7 +12,7 @@ Updated 17 July 2024 for macOS 14.5, will update again when 15.0 is released
 
 This EFI may work on other ASUS laptops with similar specs, use it at your own risk!
 
-You may use older versions of macOS with this EFI, just replace AirportItlwm.kext with your desired version accordingly
+You may use older versions of macOS with this EFI, just replace AirportItlwm.kext with your desired version accordingly and rebuild CPUFriendDataProvider.kext
 
 # My Specs
 - [ASUS Official Website](https://www.asus.com/laptops/for-home/vivobook/vivobook-s15-s531/)
