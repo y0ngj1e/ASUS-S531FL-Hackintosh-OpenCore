@@ -9,6 +9,7 @@
 - **SSDT-PNLFCFL.aml**: To patch display backlight
 - **SSDT-SBUS-MCHC.aml**: Fix SMBus
 - **SSDT-USBX.aml**: To power up all USB ports
+- **ssdt_data.aml**: Data for CPUFriend
 
 # Drivers
 - **AudioDxe.efi**: Enable Boot chime in OpenCore
@@ -18,13 +19,13 @@
 - **ResetNvramEntry.efi**: Enable the option to reset NVRAM
 
 # Kexts
-- **AirportItlwm.kext**: Enable Intel Wifi
+- **AirportItlwm.kext**: Enable Intel Wifi. For macOS 14.4+. Replace this kext if target version is lower.
 - **AppleALC.kext**: Enable audio
 - **AsusSMC.kext**: Enable battery charging limiter
 - **BlueToolFixup.kext**: Bluetooth fix
 - **BrightnessKeys.kext**: Fix brightness keys
 - **CPUFriend.kext**: Further optimise CPU Power Management
-- **CPUFriendDataProvider.kext**: Enable 800MHz min freqeuncy and balance-performance power state
+- **CPUFriendDataProvider.kext**: 800MHz min freq & performance power state. Build for 14.5. Rebuilt if using different version.
 - **CpuTscSync.kext**: Fix CPU to prevent kernel panic
 - **IntelBluetoothFirmware.kext**: Enable Intel Bluetooth
 - **IntelBTPatcher.kext**: Intel Bluetooth fix
