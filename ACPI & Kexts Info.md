@@ -25,7 +25,7 @@
 - **BlueToolFixup.kext**: Bluetooth fix
 - **BrightnessKeys.kext**: Fix brightness keys
 - **CPUFriend.kext**: Further optimise CPU Power Management
-- **CPUFriendDataProvider.kext**: 800MHz min freq & performance power state. Build for 14.5. Rebuilt if using different version.
+- **CPUFriendDataProvider.kext**: 800MHz min freq & performance power state. Built for 14.5. Rebuild if using different version.
 - **CpuTscSync.kext**: Fix CPU to prevent kernel panic
 - **IntelBluetoothFirmware.kext**: Enable Intel Bluetooth
 - **IntelBTPatcher.kext**: Intel Bluetooth fix
