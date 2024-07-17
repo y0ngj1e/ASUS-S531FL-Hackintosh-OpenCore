@@ -1,6 +1,6 @@
 # ASUS Vivobook S15 S531FL Hackintosh
 
-![Alt text](https://github.com/y0ngj1e/ASUS-S531FL-OpenCore/raw/main/About%20this%20mac.png)
+![Alt text](https://github.com/y0ngj1e/ASUS-S531FL-OpenCore/raw/main/macOS%20Sonoma.png)
 
 **OpenCore version:** 0.8.5 
 
