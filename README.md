@@ -40,7 +40,7 @@ You may use older versions of macOS with this EFI, just replace AirportItlwm.kex
 - Keyboard Backlight
 
 # Issues:
-1) CPU thermal throttles at 70C under heavy load instead of 95C. Clock speed and Power use drops to 2.5GHz and 12W respectively. This issue also occurs on some MacBooks
+1) CPU thermal throttles at 70C under heavy load instead of 95C. Clock speed and Power draw drops to 2.5GHz and 12W respectively. This issue also occurs on some real MacBooks. There is currently no known fix.
 
 # Untested:
 - HDMI (probably need to patch framebuffer)
