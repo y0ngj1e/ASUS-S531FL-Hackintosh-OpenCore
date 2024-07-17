@@ -2,15 +2,17 @@
 
 ![Alt text](https://github.com/y0ngj1e/ASUS-S531FL-OpenCore/raw/main/macOS%20Sonoma.png)
 
-**OpenCore version:** 0.8.5 
+**OpenCore version:** 1.0.0
 
 **Guide used:** https://dortania.github.io/OpenCore-Install-Guide/
 
 [Geekbench 6 Score](https://browser.geekbench.com/v6/cpu/6947236)
 
 Updated 17 July 2024 for macOS 14.5, will update again when 15.0 is released
+This EFI may work on other ASUS laptops with similar specs, use it at your own risk!
 
 # My Specs
+- [ASUS Official Website](https://www.asus.com/laptops/for-home/vivobook/vivobook-s15-s531/)
 - **CPU:** Intel Core i7-8565U
 - **GPU:** Intel UHD 620 & Nvidia MX250
 - **RAM:** 8GB Internal + 8GB Slotted DDR4 2133MHz
